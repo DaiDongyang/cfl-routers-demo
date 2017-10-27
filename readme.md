@@ -1,8 +1,8 @@
 # CFL算法
 
-+ 论文《Decentralized constraint satisfaction》（https://arxiv.org/pdf/1103.3240.pdf）中所提及算法的一种Python实现。
++ 论文《Decentralized constraint satisfaction》中所提及算法的一种Python实现。（https://arxiv.org/pdf/1103.3240.pdf）
 
-+ 本代码模拟了把该算法应用到路由器信道选择中的场景。代码语言Python3，需要安装Python库pygame。由于pygame和mac系统的兼容性问题，该代码在mac系统下无法正常运行。但在Ubuntu 16.04和win7系统下均能正常运行。
++ 本代码模拟了把CFL算法应用到路由器信道选择中的场景。代码语言Python3，需要安装Python库pygame。由于pygame和mac系统的兼容性问题，该代码在mac系统下无法正常运行。但在Ubuntu 16.04和win7系统下均能正常运行。
 
 + 进入cfl-routers-demo文件夹下（当前文件夹），执行python ui.py即可执行程序。
 
