@@ -1,4 +1,4 @@
-# CFL算法
+# CFL算法的Python实现
 
 + 论文《Decentralized constraint satisfaction》中所提及算法的一种Python实现。（https://arxiv.org/pdf/1103.3240.pdf）
 
